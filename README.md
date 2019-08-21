@@ -1,2 +1,2 @@
 # learngit
-learning
+learning git for practise
